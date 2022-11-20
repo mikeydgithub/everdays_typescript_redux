@@ -8,4 +8,3 @@ export default () => {
 }
 
 // https://dev.everdays.com/v2/public/providers?state=mi
-// https://jsonplaceholder.typicode.com
