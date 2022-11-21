@@ -1,11 +1,11 @@
 export interface HomeModel {
-    "id": number,
+    "id": 0,
     "name": string,
     "address": string,
     "profileImage": string
 }
 
-export interface HomeArrayModel{
+export interface HomeArrayModel {
     all_homes: HomeModel[],
 };
 

@@ -2,7 +2,7 @@ import homeSlice from "./home-slice";
 import { AnyAction, ThunkAction } from '@reduxjs/toolkit';
 import { RootState } from './index';
 import { HomeModel } from "../models/redux-models";
-import HomeService from '../service/homeService';
+import HomeService from "../service/homeService"; 
 
 export const homeActions = homeSlice.actions
 
